@@ -1,0 +1,23 @@
+{
+  "name": "test-npm-package-ts",
+  "version": "0.0.1",
+  "description": "Just for testing",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrBast/test-npm-package-ts.git"
+  },
+  "author": "CrBast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrBast/test-npm-package-ts/issues"
+  },
+  "homepage": "https://github.com/CrBast/test-npm-package-ts#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
